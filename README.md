@@ -1,4 +1,4 @@
-# dice_game
+# https://rishirajreddy.github.io/dice_game/
 
 Just Keep on scoring more points than the computer..Thats It!!
 
